@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 26 Sep 2018 10:33:07 at http://demo.rtcvid.net/securityfirst/new/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*http://demo.rtcvid.net/securityfirst/new/* +*http://demo.rtcvid.net/securityfirst/new/*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "HTTrack Website Copier/3.0x (offline browser; web mirror utility)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://demo.rtcvid.net/securityfirst/new/ -O1 "C:\Users\user01\Downloads\http___demo.rtcvid.net_securityfirst_new_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*http://demo.rtcvid.net/securityfirst/new/* +*http://demo.rtcvid.net/securityfirst/new/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:34:58	Error: 	"Not Found" (404) at link demo.rtcvid.net/securityfirst/new/templates/html/video-meta.html (from demo.rtcvid.net/securityfirst/new/)
+10:34:58	Error: 	"Not Found" (404) at link demo.rtcvid.net/securityfirst/new/templates/failover.html (from demo.rtcvid.net/securityfirst/new/)
+10:34:58	Error: 	"Not Found" (404) at link demo.rtcvid.net/securityfirst/new/templates/playback-failed.html (from demo.rtcvid.net/securityfirst/new/)
+10:34:58	Error: 	"Not Found" (404) at link demo.rtcvid.net/securityfirst/new/templates/technical-error.html (from demo.rtcvid.net/securityfirst/new/)
+10:34:58	Error: 	"Not Found" (404) at link demo.rtcvid.net/securityfirst/new/templates/corporate-firewall.html (from demo.rtcvid.net/securityfirst/new/)
+10:34:58	Error: 	"Not Found" (404) at link demo.rtcvid.net/securityfirst/new/help.html (from demo.rtcvid.net/securityfirst/new/)
+10:35:02	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from demo.rtcvid.net/securityfirst/new/)
+10:35:02	Warning: 	File not parsed, looks like binary: demo.rtcvid.net/securityfirst/css/fonts/din-light-webfont.ttf
+10:35:02	Warning: 	File not parsed, looks like binary: demo.rtcvid.net/securityfirst/css/fonts/DINWeb.ttf
+10:35:02	Warning: 	File not parsed, looks like binary: demo.rtcvid.net/securityfirst/css/fonts/DINWeb-Medium.ttf
+10:35:02	Error: 	"Not Found" (404) at link demo.rtcvid.net/securityfirst/css/images/sprite-ui.gif (from demo.rtcvid.net/securityfirst/css/rtc.mobile-policyholder.css?cb=1.1.20180424.2)
+10:35:02	Error: 	"Not Found" (404) at link demo.rtcvid.net/securityfirst/css/images/20x28-tick.png (from demo.rtcvid.net/securityfirst/css/rtc.mobile-policyholder.css?cb=1.1.20180424.2)
+10:35:02	Error: 	"Not Found" (404) at link demo.rtcvid.net/securityfirst/css/images/20x28_tick.png (from demo.rtcvid.net/securityfirst/css/rtc.mobile-policyholder.css?cb=1.1.20180424.2)
+10:35:02	Error: 	"Not Found" (404) at link demo.rtcvid.net/securityfirst/css/images/rtc-logo.png (from demo.rtcvid.net/securityfirst/css/rtc.mobile-policyholder.css?cb=1.1.20180424.2)
+10:35:02	Error: 	"Not Found" (404) at link demo.rtcvid.net/securityfirst/css/images/promo-buttons.png (from demo.rtcvid.net/securityfirst/css/rtc.mobile-policyholder.css?cb=1.1.20180424.2)
+10:35:02	Warning: 	File not parsed, looks like binary: demo.rtcvid.net/securityfirst/css/fonts/whitney-bold-progkcy-webfont.ttf
+10:35:02	Warning: 	File not parsed, looks like binary: demo.rtcvid.net/securityfirst/css/fonts/whitney-medium-progkcy-webfont.ttf
+10:35:05	Error: 	"Not Found" (404) at link demo.rtcvid.net/securityfirst/new/templates/es/failover.html (from demo.rtcvid.net/securityfirst/new/?language=es)
+10:35:05	Error: 	"Not Found" (404) at link demo.rtcvid.net/securityfirst/new/templates/es/playback-failed.html (from demo.rtcvid.net/securityfirst/new/?language=es)
+10:35:05	Error: 	"Not Found" (404) at link demo.rtcvid.net/securityfirst/new/templates/es/technical-error.html (from demo.rtcvid.net/securityfirst/new/?language=es)
+10:35:05	Error: 	"Not Found" (404) at link demo.rtcvid.net/securityfirst/new/templates/es/corporate-firewall.html (from demo.rtcvid.net/securityfirst/new/?language=es)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 4 seconds : 132 links scanned, 115 files written (4299854 bytes overall) [3271806 bytes received at 26385 bytes/sec], 1488039 bytes transferred using HTTP compression in 17 files, ratio 27%, 4.2 requests per connection
+(16 errors, 5 warnings, 0 messages)
